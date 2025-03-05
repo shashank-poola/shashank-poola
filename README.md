@@ -15,7 +15,6 @@ I am a passionate Full-Stack developer and technology enthusiast. Welcome to my 
 
 ## 🌱 I'm currently learning
 
-- Machine Learning with TensorFlow
 - Full-stack development
 - DSA
 
