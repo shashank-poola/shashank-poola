@@ -7,9 +7,9 @@ I am a Full-Stack developer and technology enthusiast. Welcome to my GitHub prof
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript (Node.js), Python, Java
+- **Languages:** JavaScript (Node.js), Python
 - **Frontend:** HTML, CSS, React
-- **Backend:** Express.js
+- **Backend:** Express.js, Node.js
 - **Database:** MongoDB
 - **Version Control:** Git
 
