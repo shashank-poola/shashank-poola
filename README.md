@@ -3,7 +3,7 @@
 #  Hi, I'm Shashank Poola (He/Him)👋
 </div>
 
-I am a Full-Stack developer and technology enthusiast. Welcome to my GitHub profile! 🚀
+I am a Full-Stack developer and tech enthusiast. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Technologies & Tools
 
