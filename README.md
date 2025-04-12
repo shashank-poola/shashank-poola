@@ -16,7 +16,8 @@ I am a Full-Stack developer and tech enthusiast. Welcome to my GitHub profile! �
 ## 🌱 I'm currently learning
 
 - Full-stack development
-- DSA
+- Web3
+- Blockchain
 
 ## 👯 Let's collaborate!
 
