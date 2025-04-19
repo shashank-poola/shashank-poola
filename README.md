@@ -7,11 +7,11 @@ I am a Full-Stack developer and tech enthusiast. Welcome to my GitHub profile! �
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript (Node.js), Python
+- **Languages:** JavaScript (Node.js), Python, TypeScript
 - **Frontend:** HTML, CSS, React
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
-- **Version Control:** Git
+- **Version Control:** Git, VS code, github
 
 ## 🌱 I'm currently learning
 
