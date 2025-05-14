@@ -7,7 +7,7 @@ I am a Full-Stack developer and tech enthusiast. Welcome to my GitHub profile! ð
 
 ## ðŸ”§ Technologies & Tools
 
-- **Languages:** JavaScript (Node.js), Python, TypeScript
+- **Languages:** JavaScript (Node.js), Sodility, TypeScript
 - **Frontend:** HTML, CSS, React
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
