@@ -26,8 +26,8 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 ## 📫 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/shashank-poola/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://x.com/Shanktwt)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome)](https://www.theshashank.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://x.com/shashankpoola)
+[![Personal Website](https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome)](https://www.shasha.ink)
 
 ## 🌟 Fun fact
 
