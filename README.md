@@ -8,7 +8,7 @@ I am a Full-Stack developer and interesting in learning blockchain and web3, cur
 ## 🔧 Technologies & Tools :-
 
 - **Languages:** JavaScript (Node.js), Sodility, TypeScript
-- **Frontend:** HTML, CSS, React
+- **Frontend:** HTML, CSS, React, Next js
 - **Backend:** Express.js, Node.js
 - **Database:** MongoDB
 - **Version Control:** Git, VS code, github
