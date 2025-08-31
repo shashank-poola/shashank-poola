@@ -17,7 +17,6 @@ I am a Full-Stack developer and interesting in learning blockchain and web3, cur
 
 - Full-stack development
 - Web3
-- Blockchain
 
 ## 👯 Let's collaborate! :-
 
