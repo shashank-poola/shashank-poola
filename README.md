@@ -10,8 +10,10 @@ I am a Full-Stack developer and interesting in learning blockchain and web3, cur
 - **Languages:** JavaScript (Node.js), Sodility, TypeScript
 - **Frontend:** HTML, CSS, React, Next js
 - **Backend:** Express.js, Node.js
-- **Database:** MongoDB
+- **Database:** MongoDB, Postgres DB
 - **Version Control:** Git, VS code, github
+- **ORM / Tools:** Prisma  
+- **Caching / Queues:** Redis 
 
 ## 🌱 I'm currently learning :-
 
