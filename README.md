@@ -24,7 +24,7 @@ I am a Full-Stack developer and interesting in learning blockchain and web3, cur
 
 I'm always open to collaborating on interesting projects. Feel free to reach out if you have an idea or are looking for a contributor.
 
-## 📫 Get in touch :-
+## 📫 Connect :-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/shashank-poola/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://x.com/shashankpoola)
