@@ -30,11 +30,15 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://x.com/shashankpoola)
 [![Personal Website](https://img.shields.io/badge/Website-Visit-green?style=social&logo=google-chrome)](https://www.shasha.ink)
 
-## 🌟 Fun fact :-
+## 🎮 Outside of Code
 
-I enjoy exploring new technologies and solving algorithmic puzzles in my free time.
+Way more interesting than just “fun fact”:
 
-Thanks for visiting! 😊
+I enjoy solving algorithmic challenges (DSA grind 💻).
+
+Big fan of football & late-night coding sessions.
+
+Love exploring UI/UX design experiments in my free time.
 
 </div>
 
