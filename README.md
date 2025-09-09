@@ -32,9 +32,9 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 ## 🎮 Outside of Code
 
-Love exploring UI/UX design experiments in my free time.
-I enjoy solving algorithmic challenges (DSA grind 💻).
-Big fan of cricket & late-night coding sessions.
+- Love exploring UI/UX design experiments in my free time.
+- I enjoy solving algorithmic challenges (DSA grind 💻).
+- Big fan of cricket & late-night coding sessions.
 
 </div>
 
