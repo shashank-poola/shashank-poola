@@ -3,7 +3,7 @@
 #  Hi, I'm Shashank Poola (He/Him)👋
 </div>
 
-I am a Full-Stack developer and interesting in learning blockchain and web3, currently learning solana with rust. Tech enthusiast. Welcome to my GitHub profile! 🚀
+I am a Full-Stack developer and currently learning web3, solana with rust. Tech enthusiast. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Technologies & Tools :-
 
