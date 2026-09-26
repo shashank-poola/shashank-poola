@@ -1,4 +1,4 @@
-# Shashank Poola
+# Shashank Poola🍀
 
 Engineer from India, building AI systems, autonomous agents, Applied AI.
 
