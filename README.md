@@ -5,7 +5,7 @@ Engineer from India, building AI systems, autonomous agents, Applied AI.
 - Portfolio: [shashank.ink](https://shashank.ink)
 - X: [@shashankpoola](https://x.com/shashankpoola)
 
-- Personal Projects
+- PoW
   - [OpenMerge](https://github.com/shashank-poola/openmerge) - AI-powered code review system that analyzes GitHub pull requests using multiple specialized agents.
   - [Capy Memory](https://github.com/shashank-poola/capy-memory-companion) - AI companion with semantic and episodic memory, retrieval, and memory lifecycle management.
   - [DataMind](https://github.com/shashank-poola/datamind) - Enterprise RAG system with hybrid BM25 + semantic retrieval and Cohere reranking.
