@@ -1,17 +1,21 @@
-# Shashank Poola🍀
+### Hey, I'm Shashank
 
-AI engineer from India, building autonomous agents and applied AI.
+[![X](https://img.shields.io/badge/X-%40shashankpoola-black?logo=x&logoColor=white)](https://x.com/shashankpoola)
 
-- Portfolio: [shashank.ink](https://shashank.ink)
-- X: [@shashankpoola](https://x.com/shashankpoola)
+I write about AI Systems, agents, What I'm learning and building on my blog [here](https://shashank.ink).
 
-- Personal Projects
-  - [OpenMerge](https://github.com/shashank-poola/openmerge) - AI-powered code review system that analyzes GitHub pull requests using multiple specialized agents.
-  - [Capy Memory](https://github.com/shashank-poola/capy-memory-companion) - AI companion with semantic and episodic memory, retrieval, and memory lifecycle management.
-  - [DataMind](https://github.com/shashank-poola/datamind) - Enterprise RAG system with hybrid BM25 + semantic retrieval and Cohere reranking.
-  - [TraceGraph](https://github.com/shashank-poola/tracegraph) - Codewiki with knowledge graph, live UI, and requirements to analyze the blast radius of changes in GitHub pull requests.
+Most recently, I've been working on LLM inference, building a tiny GPT with a KV cache from scratch to understand how models actually run.
 
-- Open Source
-  - [OpenClaw #75059](https://github.com/openclaw/openclaw/pull/75059) - Fixed CLI log streaming reconnection after transient gateway disconnects.
-  - [Nao #720](https://github.com/getnao/nao/pull/720) - Fixed cloned repositories retaining `.git/`, which caused gitlink issues.
-  - [Nao #766](https://github.com/getnao/nao/pull/766) - Added K/M/B formatting for large numbers in KPI cards and tooltips.
+You can reach me on [X](https://x.com/shashankpoola) or my email [here.](mailto:hello@shashank.ink)
+
+#### Building
+
+- [OpenMerge](https://github.com/shashank-poola/openmerge) - Code review with agents: multiple specialized agents read a pull request and flag what matters before it merges.
+- [TraceGraph](https://github.com/shashank-poola/tracegraph) - Codewiki for agents and humans: map a repo into a knowledge graph and see the blast radius of a change before it ships.
+- [Capy Memory](https://github.com/shashank-poola/capy-memory-companion) - Memory for AI companions: semantic and episodic recall, retrieval, and a lifecycle for what gets kept and what fades.
+- [DataMind](https://github.com/shashank-poola/datamind) - Enterprise RAG: hybrid BM25 + semantic retrieval with Cohere reranking to find the right answer, not just a close one.
+
+#### Contributing to
+
+- [OpenClaw](https://github.com/openclaw/openclaw) ![stars](https://img.shields.io/github/stars/openclaw/openclaw?label=stars&color=ffd200&labelColor=555) - CLI log streaming reconnection after transient gateway disconnects.
+- [Nao](https://github.com/getnao/nao) ![stars](https://img.shields.io/github/stars/getnao/nao?label=stars&color=ffd200&labelColor=555) - Cloned repository `.git/` cleanup to stop gitlink issues, and K/M/B formatting for large numbers in KPI cards and tooltips.
