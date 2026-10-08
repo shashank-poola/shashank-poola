@@ -17,5 +17,5 @@ You can reach me on [X](https://x.com/shashankpoola) or my email [here.](mailto:
 
 #### Contributing to
 
-- [OpenClaw](https://github.com/openclaw/openclaw) ![stars](https://img.shields.io/github/stars/openclaw/openclaw?label=stars&color=ffd200&labelColor=555) - CLI log streaming reconnection after transient gateway disconnects.
-- [Nao](https://github.com/getnao/nao) ![stars](https://img.shields.io/github/stars/getnao/nao?label=stars&color=ffd200&labelColor=555) - Cloned repository `.git/` cleanup to stop gitlink issues, and K/M/B formatting for large numbers in KPI cards and tooltips.
+- [OpenClaw](https://github.com/openclaw/openclaw) ![stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat&label=stars&color=ffd200&labelColor=555&v=2) - CLI log streaming reconnection after transient gateway disconnects.
+- [Nao](https://github.com/getnao/nao) ![stars](https://img.shields.io/github/stars/getnao/nao?style=flat&label=stars&color=ffd200&labelColor=555&v=2) - Cloned repository `.git/` cleanup to stop gitlink issues, and K/M/B formatting for large numbers in KPI cards and tooltips.
